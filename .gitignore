@@ -1,6 +1,6 @@
-\linux
-\macos
-\windows
+/linux
+/macos
+/windows
 # Miscellaneous
 *.class
 *.log
